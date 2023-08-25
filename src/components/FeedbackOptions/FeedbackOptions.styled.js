@@ -8,5 +8,13 @@ export const OptionsContainer = styled.div`
 `;
 
 export const OptionBtn = styled.button`
-  cursor: pointer;
+  background-color: mintcream;
+  border: none;
+  border-radius: 8px;
+  font-size: 24px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  padding: 15px 32px;
+  color: #090979;
 `;

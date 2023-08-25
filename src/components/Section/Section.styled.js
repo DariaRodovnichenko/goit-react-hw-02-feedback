@@ -1,10 +1,14 @@
 import styled from 'styled-components';
 
 export const SectionWrapper = styled.section`
-  margin: 0 auto;
+  padding: 10px;
+  width: 500px;
 `;
 
-export const Title = styled.h1`
+export const Title = styled.h2`
+  font-size: 32px;
   text-align: center;
-  font-size: 40px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  color: mintcream;
 `;
